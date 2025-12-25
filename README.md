@@ -60,3 +60,5 @@ Canvas API	Snowfall animation
 Google Fonts	Premium typography
 
 Preview>>https://anirbanchattaraj.github.io/Christmas/
+
+Author>>
